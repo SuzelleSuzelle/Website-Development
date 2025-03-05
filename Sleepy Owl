@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body></body>
+    <h1>Sleppy Owl Best Branded Coffe</h1>
+    <p>Sleepy Owl is a homegrown Indian coffee brand. We spend inordinately long making coffee that is as good as it can be in
+    every single cup.</p>
+    <h2>Cold Brew</h2>
+    <img src="https://sleepyowl.co/cdn/shop/files/shop_4.png?v=1630526926" alt="Cold breff">
+    <h3>Hot Brews</h3>
+    <img src="https://sleepyowl.co/cdn/shop/files/shop_3.png?v=1630526907" alt="">
+    <img src="https://sleepyowl.co/cdn/shop/files/shop_1.png?v=1630526867" alt="">
+    <div>
+        <button type="button" class="btn btn-info">Add to Cart</button>
+        <button type="button" class="btn btn-info">Special Offers</button>
+        <button type="button" class="btn btn-info">Diliver</button>
+        <button type="button" class="btn btn-info">Bestsellers</button>
+        <button type="button" class="btn btn-info">Bulk Orders
+        </button>
+    </div>
+</body>
+</html>
