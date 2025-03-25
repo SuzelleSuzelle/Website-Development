@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+    </script>
+</head>
+
+<body>
+    <div class="card" style="width: 18rem;">
+        <img src="download.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="Name:Team Sanario">Name:Suzelle Milka</h5>
+            <p class="card-text">I am Suzelle.I live in a country called Kenya found in Africa I am in grade 6 and i am 11 yrs old.I am a in a tribee called Luo</p>
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Suzelle</li>
+            <li class="list-group-item">11 years old</li>
+            <li class="list-group-item"> Grade 6</li>
+        </ul>
