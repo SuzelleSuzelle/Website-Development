@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            text-align:center;
+        }
+        nav{
+            background-color:bisque;
+            padding:10px;
+        }
+        ul{
+            list-style-type:none;
+            margin:0;
+            padding:0;
+            overflow:hidden;
+        }
+        li{
+            float:left;
+        }
+        li a{
+            display:block;
+        }
+        li a:hover{
+            background-color: darksalmon;
+        }
+    </style>
+</head>
+<body>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="6-about.html">About</a></li>
+                <li><a href="6-contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <p>My name is Suzelle Milka.I am 11yrs old.I am in grade 6.I go to school at Happyland Spring Grenspan School.I am kenyan.My tribe is Luo.Kenya is found in Africa.I am a girl/Female.I love every thing about me. </p>
+
+</body>
+</html>
