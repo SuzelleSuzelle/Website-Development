@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color:aquamarine;">
+    <h1>Pizza</h1>
+    <p>
+        <img scr="Pizza.jpg"style="width:350px;height:270px;float:right;margin-left:15px;">
+    </p>
+    Pizza-Pizza is a flat, open-faced baked pie of Italian origin. It consists of a thin layer of bread dough topped with spiced
+    tomato sauce and cheese, often garnished with various toppings such as anchovies, sausage slices, and mushrooms. In the
+    US, it is also known as "pizza pie".
+    <br><br><br><br><br> <br><br><br><br><br>
+    <h1>Pastries</h1>
+    <img scr="Truffle.jpg"style="width:350;height:290;float:right;margin-left:20;">
+    Eggless Truffle Cake: Luscious old chocolate truffle, only this time it's eggless! A soft sponge layered with a creamy,
+    dark chocolate ganache.
+</body>
+</html>
