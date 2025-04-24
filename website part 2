@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    *{
+        margin-left:7px;
+    }
+    h1{
+        text-align: center;
+        color: green;
+        font-weight: bloder;
+    }
+    p{
+        text-align:center;
+        color:red;
+        font-size:20px;
+        font-weight:bolder;
+    }
+    .colum{
+        float:left;
+        width:30%;
+        height:30%;
+    }
+    </style>
+</head>
+<body>
+    <br>
+    <span class="border trans"style="font-size:40px'">
+        <center>Welcome all to this website</center>
+    </span><br>
+</section>
+<section>
+    <section class="section-section-dark">
+        <h1>Food</h1>
+        <p>
+            Nutritionally, food is the foundation of life. It provides essential nutrients like carbohydrates, proteins, fats,
+            vitamins, and minerals that fuel your body, repair tissues, and support overall health. For example, carbohydrates are
+            your body's primary energy source, while proteins are crucial for muscle repair and growth. Fats, often misunderstood,
+            are vital for brain health and hormone production. Vitamins and minerals, though needed in smaller amounts, play a
+            massive role in everything from immunity to bone strength.
+        </p>
+</section>
+<div class="pimg3">
+    <div class="ptext">
+        <span class="border trans">
+            Image Two Text
+        </span>
+    </div>
+</div>
+</body>
+</html>
