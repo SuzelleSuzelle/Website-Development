@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+    </script>
+</head>
+<body>
+    <h1>Learn about Bees</h1>
+    <ul>
+        <li><a href=#Home>Home</a></li>
+        <li><a href=#Online Resources>Online Resources </a></li>
+        <li><a href=#Reading Groups>Reading Groups</a></li>
+        <li><a href=#Contact Us>Contact Us</a></li>
+    </ul>
+    </nav>
+    <h2>Welcome To Learn more about bees</h2>
+    <p>A bee is a flying insect known for pollination and producing honey. Bees are essential for ecosystems and agriculture.</p>
+    <h3>Meet Our Pollinators</h3>
+    <img src="https://th.bing.com/th/id/OIP.01rao4NvNhPButuvBXGjPAHaKx?w=127&h=186&c=7&r=0&o=5&pid=1.7">
+    <p>Pollinator Sophie</p>
+    <h3>She collects the honey from the bees</h3>
+    <img src="https://th.bing.com/th/id/OIP.RSAebx3StxW4VwhndfulnwHaLH?w=124&h=186&c=7&r=0&o=5&pid=1.7">
+    <p>Pollinator Emma</p>
+    <h4>She vaccinates the bees and takes good care of them
+    <h1>A short story of Bees</h1>
+    <img src="bees.jpg">
+    <h2>The flight of Nia</h2>
+    <p>Deep in the heart of a sprawling meadow, a young bee named Nia took her first flight from the hive. She was eager to
+    explore the world beyond, to taste the sweetness of adventure. The elder bees had told her stories—of flowers so bright
+    they rivaled the sun, of winds that carried travelers far and wide, of the quiet hum of a thousand wings working
+    together.
+    As she soared through the air, Nia marveled at the endless sea of blossoms stretching before her. She landed gently on a
+    sunflower, its golden petals warm beneath her tiny feet. Carefully, she gathered nectar, her body dusted with pollen
+    like specks of gold.
+    Just as she prepared to return to the hive, a strong gust of wind swept her away. She tumbled and twisted through the
+    air, panicked, until she landed on an unfamiliar patch of daisies. The hive was nowhere in sight.
+    Determined, Nia remembered the wisdom of the elders: Follow the scent, listen to the hum, trust your instincts. As she
+    buzzed forward, she heard the distant vibrations of her sisters. She followed the sound, weaving through fields, carried
+    by the rhythm of a song only bees understood.
+    Finally, she saw it—the hive, bustling with life. Nia landed safely among her kin, her tiny heart bursting with
+    excitement. She had ventured far, but she had found her way home. The elders smiled, knowing she was no longer just a
+    young bee—she was a true explorer of the sky.And so, Nia continued her journey, buzzing with the knowledge that every flight was an adventure waiting to unfold.</p>
+</body>
+</html>
