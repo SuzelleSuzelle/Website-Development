@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+    </script>
+</head>
+<body>
+    <h1>Mount Caramel Book Club</h1>
+    <img src="https://images.pexels.com/photos/1976971/pexels-photo-1976971.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260">
+    <nav>
+        <ul>
+            <li><a href=#Home>Home</a></li>
+            <li><a href=#Online Resources>Online Resources </a></li>
+            <li><a href=#Reading Groups>Reading Groups</a></li>
+            <li><a href=#Contact Us>Contact Us</a></li>
+        </ul>
+    </nav>
+    <h2>Welcome To Mount Caramel Book Club</h2>
+    <p>The Mount Caramel Book Club is a online community of books readers in Mount Caramel School</p>
+    <h3>Meet Our Teachers</h3>
+    <img src="https://th.bing.com/th/id/OIP.01rao4NvNhPButuvBXGjPAHaKx?w=127&h=186&c=7&r=0&o=5&pid=1.7">
+    <p>Mrs.Sophie</p>
+    <h3>She teaches elementry school kids</h3>
+    <img src="https://th.bing.com/th/id/OIP.RSAebx3StxW4VwhndfulnwHaLH?w=124&h=186&c=7&r=0&o=5&pid=1.7">
+    <p>Mrs.Emma</p>
+    <h4>She teaches Secondary School kids</h4>
+    <h2>Book Review</h2>
+    <h3>Alice in Wonderand</h3>
+    <p><strong>Amit:</strong><p>I loved reading this book.A must read for everyone.</p></p>
+    <p><strong>Sekhar:</strong>I realy enjoyed reading this book.</p></p> 
+    <h2>Best Sellers</h2>
+    <b>The Womman in the Window</b> by <em>A.J.Finn</em><br>
+    <b>Stand By Me</b> by <em>S.D.Robertson</em><br>
+    <b>One in A Million</b> by <em>Lindsey Kelk</em><br>
+    <p>Contact Us:Mrs.Sofie</p>
+    <p>Phone No:+1124533</p>
+    <addres>36th Main, Palm Street, Delhi-36035</addres>
+</body>
+</html>
