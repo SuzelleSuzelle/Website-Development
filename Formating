@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+    </script>
+</head>
+<body>
+    <b>Welcome to Codigal..Let's get started with codigal</b><br>
+    <strong>Welcome to Codigal..Let's get started with codigal</strong><br>
+    <i>Welcome to Codigal..Let's get started with codigal</i><br>
+    <em>Welcome to Codigal..Let's get started with codigal</em><br>
+    <mark>Welcome to Codigal..Let's get started with codigal</mark><br>
+    <small>Welcome to Codigal..Let's get started with coding</small><br>
+    <del>Welcome to Codigal..Let's get started with coding</del><br>
+    Welcome to <sup>Codigal</sup>..Let's get started with<sup>codigal</sup>
+</body>
+</html>
